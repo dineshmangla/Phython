@@ -1,0 +1,2 @@
+Dinesh 10 20
+Rajat 30 20
